@@ -3,6 +3,7 @@ import lantern from "./assets/Lantern.svg";
 function App() {
   return (
     <div class="flex-1 bg-gray-900">
+
       <header class="relative"></header>
 
       <main class="">
