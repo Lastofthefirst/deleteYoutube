@@ -1,5 +1,7 @@
 import shortcut from "./assets/shortcuts.png";
 import lantern from "./assets/Lantern.svg";
+import Feature from "./feature";
+
 function App() {
   return (
     <div class="flex-1 bg-gray-900">
@@ -77,6 +79,7 @@ function App() {
             </div>
           </div>
         </div>
+        <Feature />
       </main>
     </div>
   );
