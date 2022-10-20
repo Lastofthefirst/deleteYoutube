@@ -90,7 +90,7 @@ function Feature() {
                 </p>
                 <div class="mt-6">
                   <a
-                    href="#https://www.youtube.com/watch?v=bvFybxTJq8g"
+                    href="https://www.youtube.com/watch?v=bvFybxTJq8g"
                     class="inline-flex px-4 py-2 text-base font-medium text-orange-200 bg-orange-600 rounded-md border border-transparent shadow-sm hover:bg-orange-700"
                   >
                     Give it a whirl
