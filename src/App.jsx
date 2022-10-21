@@ -15,7 +15,7 @@ function App() {
               <div class="px-4 mx-auto max-w-md sm:max-w-2xl sm:px-6 sm:text-center lg:flex lg:items-center lg:px-0 lg:text-left">
                 <div class="lg:py-24">
                   <a
-                    href="https://reflect.ridvan.org/removeyoutube"
+                    href="https://reflect.ridvan.org/posts/removeyoutube"
                     class="inline-flex items-center p-1 pr-2 text-white bg-black rounded-full hover:text-gray-200 sm:text-base lg:text-sm xl:text-base"
                   >
                     <span class="rounded-full bg-yellow-500 px-3 py-0.5 text-sm font-semibold leading-5 text-white">

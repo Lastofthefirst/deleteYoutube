@@ -60,7 +60,7 @@ function Feature() {
       </div>
       <div class="mt-24">
         <div class="lg:mx-auto lg:grid lg:max-w-7xl lg:grid-flow-col-dense lg:grid-cols-2 lg:gap-24 lg:px-8">
-          <div class="px-4 mx-auto max-w-xl sm:px-6 lg:col-start-2 lg:mx-0 lg:max-w-none lg:py-32 lg:px-0">
+          <div class="px-4 mx-auto max-w-xl lg:mb-10 sm:px-6 lg:col-start-2 lg:mx-0 lg:max-w-none lg:py-32 lg:px-0">
             <div>
               <div>
                 <span class="flex justify-center items-center w-12 h-12 bg-orange-600 rounded-md">
